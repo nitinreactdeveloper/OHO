@@ -1,0 +1,13 @@
+const SpecialistData = [
+    { id: 1, title: 'Bella Devid', work: "Hair Stylist", img: require('../assets/Images/bella.png'), location : " king road, 34 sector, Mumbai", reviews: "96", About:'Hello', slot1: "7:00AM-8:00AM", slot2: "7:00AM-8:00AM" ,slot3: "7:00AM-8:00AM" , slot4:  "7:00AM-8:00AM" , slot5:  "7:00AM-8:00AM" , slot6: "7:00AM-8:00AM" , slot7: "7:00AM-8:00AM"   },
+    { id: 2, title: 'kiyara sain', work: "Makeup Artist", img: require('../assets/Images/kiyara.png'), location : " king road, 34 sector, Mumbai" , slot1: "7:00AM-8:00AM", slot2: "7:00AM-8:00AM" ,slot3: "7:00AM-8:00AM" , slot4:  "7:00AM-8:00AM" , slot5:  "7:00AM-8:00AM" , slot6: "7:00AM-8:00AM" , slot7: "7:00AM-8:00AM" },
+    { id: 3, title: 'Riyan Kapoor', work: "Makeup Artist", img: require('../assets/Images/riyan.png'),location : " king road, 34 sector, Mumbai" , slot1: "7:00AM-8:00AM", slot2: "7:00AM-8:00AM" ,slot3: "7:00AM-8:00AM" , slot4:  "7:00AM-8:00AM" , slot5:  "7:00AM-8:00AM" , slot6: "7:00AM-8:00AM" , slot7: "7:00AM-8:00AM" },
+    { id: 4, title: 'kiyara sain', work: "Makeup Artist", img: require('../assets/Images/kiyara.png'), location : " king road, 34 sector, Mumbai" , slot1: "7:00AM-8:00AM", slot2: "7:00AM-8:00AM" ,slot3: "7:00AM-8:00AM" , slot4:  "7:00AM-8:00AM" , slot5:  "7:00AM-8:00AM" , slot6: "7:00AM-8:00AM" , slot7: "7:00AM-8:00AM" },
+    { id: 5, title: 'Bella Devid', work: "Makeup Artist", img: require('../assets/Images/bella.png') , location : " king road, 34 sector, Mumbai", slot1: "7:00AM-8:00AM", slot2: "7:00AM-8:00AM" ,slot3: "7:00AM-8:00AM" , slot4:  "7:00AM-8:00AM" , slot5:  "7:00AM-8:00AM" , slot6: "7:00AM-8:00AM" , slot7: "7:00AM-8:00AM" },
+    { id: 6, title: 'kiyara sain', work: "Makeup Artist", img: require('../assets/Images/kiyara.png'), location : " king road, 34 sector, Mumbai", slot1: "7:00AM-8:00AM", slot2: "7:00AM-8:00AM" ,slot3: "7:00AM-8:00AM" , slot4:  "7:00AM-8:00AM" , slot5:  "7:00AM-8:00AM" , slot6: "7:00AM-8:00AM" , slot7: "7:00AM-8:00AM"  },
+    { id: 7, title: 'Bella Devid', work: "Makeup Artist", img: require('../assets/Images/bella.png') , location : " king road, 34 sector, Mumbai" , slot1: "7:00AM-8:00AM", slot2: "7:00AM-8:00AM" ,slot3: "7:00AM-8:00AM" , slot4:  "7:00AM-8:00AM" , slot5:  "7:00AM-8:00AM" , slot6: "7:00AM-8:00AM" , slot7: "7:00AM-8:00AM"},
+    { id: 8, title: 'Riyan Kapoor', work: "Makeup Artist", img: require('../assets/Images/riyan.png'), location : " king road, 34 sector, Mumbai", slot1: "7:00AM-8:00AM", slot2: "7:00AM-8:00AM" ,slot3: "7:00AM-8:00AM" , slot4:  "7:00AM-8:00AM" , slot5:  "7:00AM-8:00AM" , slot6: "7:00AM-8:00AM" , slot7: "7:00AM-8:00AM"  }
+
+] 
+
+export default SpecialistData
